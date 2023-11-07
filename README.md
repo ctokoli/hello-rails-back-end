@@ -89,10 +89,9 @@ rspec spec
 ```
 
 ### React Frontend Repo 
-```
-https://github.com/ctokoli/hello-react-front-end.git
+<a href="https://github.com/ctokoli/hello-react-front-end.git">Hello React-Frontend</a>.
 
-```
+
 
 <!-- AUTHORS -->
 
