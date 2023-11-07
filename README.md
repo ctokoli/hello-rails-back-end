@@ -106,7 +106,7 @@ rspec spec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Features will be added to the project.
+Features that will be added to the project.
 
 - **Add Authentication**
 - **Add Edit to API**
@@ -116,8 +116,6 @@ Features will be added to the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -125,7 +123,7 @@ Features will be added to the project.
 Contributions, issues, and feature requests are welcome!
 Feel free to check the <a href="https://github.com/ctokoli/Blog/issues">Issues</a>.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- SUPPORT -->
 
@@ -133,7 +131,7 @@ Feel free to check the <a href="https://github.com/ctokoli/Blog/issues">Issues</
 
 If you like this project, show your support by giving the project a ⭐️.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -141,7 +139,7 @@ If you like this project, show your support by giving the project a ⭐️.
 
 I would like to thank Microverse for including this in their curriculum.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
